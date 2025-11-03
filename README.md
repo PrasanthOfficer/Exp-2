@@ -1,5 +1,6 @@
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
-
+# Reg no : 212224040243
+# Name : PRASANTH T
 # AIM:
 
 To study the problem statement ,SRS document and draw the UML diagram of library management system
